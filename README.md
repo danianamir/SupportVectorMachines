@@ -1,4 +1,4 @@
-# MachineLearning
+#MIN_MAX MARGIN CLASSIFIER
 پروژه درس یادگیری ماشین دکتر کتانفروش .
 نام و نام خانوادگی: دانیا نمیرانیان
 این پروژه نحوه کارکرد max margin classifier , soft margin classifier  ها را بر روی مجموعه داده ها بررسی میکند
