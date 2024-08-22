@@ -2,7 +2,7 @@
 
 This project is part of the Machine Learning course taught by Dr. Katanforoosh.
 
-**Student Name:** Dania Namiraniyan
+
 
 This project explores the functionality of max margin classifiers and soft margin classifiers on various datasets.
 
